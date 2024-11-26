@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://van-lite.com/</loc>
+	<lastmod>2024-11-26T15:46:33+01:00</lastmod>
+	<priority>1</priority>
+</url>
+<url>
+	<loc>https://van-lite.com/despre-noi/</loc>
+	<lastmod>2024-11-26T15:46:33+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://van-lite.com/contact/</loc>
+	<lastmod>2024-11-26T15:46:33+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://van-lite.com/servicii/</loc>
+	<lastmod>2024-11-26T15:46:34+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://van-lite.com/servicii/transport-materiale/</loc>
+	<lastmod>2024-11-26T15:46:34+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://van-lite.com/servicii/mutari/</loc>
+	<lastmod>2024-11-26T15:46:34+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://van-lite.com/servicii/transport-marfa/</loc>
+	<lastmod>2024-11-26T15:46:36+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+</urlset>
