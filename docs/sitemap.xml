@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://van-lite.com/</loc>
-	<lastmod>2025-01-04T15:46:33+01:00</lastmod>
+	<lastmod>2025-01-22T15:46:33+01:00</lastmod>
 	<priority>1</priority>
 </url>
 <url>
 	<loc>https://van-lite.com/despre-noi/</loc>
-	<lastmod>2025-01-04T15:46:33+01:00</lastmod>
-	<priority>0.8</priority>
+	<lastmod>2025-01-22T15:46:33+01:00</lastmod>
+	<priority>0.5</priority>
 </url>
 <url>
 	<loc>https://van-lite.com/contact/</loc>
-	<lastmod>2025-01-04T15:46:33+01:00</lastmod>
+	<lastmod>2025-01-22T15:46:33+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://van-lite.com/servicii/</loc>
-	<lastmod>2025-01-04T15:46:34+01:00</lastmod>
+	<lastmod>2025-01-22T15:46:34+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://van-lite.com/servicii/transport-materiale/</loc>
-	<lastmod>2025-01-04T15:46:34+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2025-01-22T15:46:34+01:00</lastmod>
+	<priority>0.7</priority>
 </url>
 <url>
 	<loc>https://van-lite.com/servicii/mutari/</loc>
-	<lastmod>2025-01-04T15:46:34+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2025-01-22T15:46:34+01:00</lastmod>
+	<priority>0.7</priority>
 </url>
 <url>
 	<loc>https://van-lite.com/servicii/transport-marfa/</loc>
-	<lastmod>2025-01-04T15:46:36+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2025-01-22T15:46:36+01:00</lastmod>
+	<priority>0.7</priority>
 </url>
 </urlset>
